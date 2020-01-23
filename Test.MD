@@ -5,6 +5,21 @@
 
 ### Компоненты:
 
+**Text:**
+
+*Изменено:*
+- шрифт на "SF Pro Text". | [DS-92](https://s7airlines.atlassian.net/browse/DS-92)
+- отступ в 8px. | [DS-92](https://s7airlines.atlassian.net/browse/DS-92)
+
+*Удалено:*
+- цвет N80. | [DS-92](https://s7airlines.atlassian.net/browse/DS-92)
+
+**Title:**
+
+*Добавлено:*
+- стили для Desktop, Tablet и Mobile. | [DS-92](https://s7airlines.atlassian.net/browse/DS-92)
+- цвет N300 и N900. | [DS-92](https://s7airlines.atlassian.net/browse/DS-92)
+
 **Chore:**
 
 *Добавлено:*
@@ -12,38 +27,11 @@
 - Добавлен contributing.md | [DS-90](https://s7airlines.atlassian.net/browse/DS-90)
 - Добавлен скрипт для создания changelog из истории коммитов между версиями. | [DS-90](https://s7airlines.atlassian.net/browse/DS-90)
 - Исправлены скрипты для сборки релизов. Теперь доступны для всех платформ. | [DS-90](https://s7airlines.atlassian.net/browse/DS-90)
-- Скрипт анализа и построения CHANGELOG.md  | [DS-90](https://s7airlines.atlassian.net/browse/DS-90)
+- Скрипт анализа и построения CHANGELOG.md | [DS-90](https://s7airlines.atlassian.net/browse/DS-90)
 - Шаблон для PR (pull_request_template.md) | [DS-90](https://s7airlines.atlassian.net/browse/DS-90)
-
-**Component:**
-
-*Добавлено:*
-- Добавлен функционал... | [DS-90](https://s7airlines.atlassian.net/browse/DS-90)
-
-*Измененно:*
-- Изменен функционал... | [DS-90](https://s7airlines.atlassian.net/browse/DS-90)
-
-*Исправлено:*
-- Исправлен функционал... | [DS-90](https://s7airlines.atlassian.net/browse/DS-90)
-
-**Component2:**
-
-*Добавлено:*
-- Добавлен функционал... | [DS-90](https://s7airlines.atlassian.net/browse/DS-90)
-
-*Измененно:*
-- Изменен функционал... | [DS-90](https://s7airlines.atlassian.net/browse/DS-90)
-
-*Исправлено:*
-- Исправлен функционал... | [DS-90](https://s7airlines.atlassian.net/browse/DS-90)
 
 ### Остальные коммиты:
 
-- chore [Chore] Добавлен шаблон PR и ChangeLog | [DS-90](https://s7airlines.atlassian.net/browse/DS-90) | [PR #84](https://github.com/CSSSR/s7_ds/pull/84)
-- chore [Chore] Добавлена история изменений | [DS-90](https://s7airlines.atlassian.net/browse/DS-90) | [PR #83](https://github.com/CSSSR/s7_ds/pull/83)
-- fix [Component] Краткое описание изменений | [DS-90](https://s7airlines.atlassian.net/browse/DS-90)
-- feature [Component,Component2] Краткое описание групповых изменений | [DS-90](https://s7airlines.atlassian.net/browse/DS-90)
-- feat DS-90 [PR]: Добавлен шаблон PR
 - [Chore] Изменнены скрипты сборки (поддержка всех OS) | [PR #80](https://github.com/CSSSR/s7_ds/pull/80)
 - [Select] Поправил стили для компонента Menu | [PR #76](https://github.com/CSSSR/s7_ds/pull/76)
 
