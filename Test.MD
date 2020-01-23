@@ -6,15 +6,18 @@
 ### Компоненты:
 
 **Text**
+
 *Изменено:* - шрифт на "SF Pro Text". | [DS-92](https://s7airlines.atlassian.net/browse/DS-92)
 *Изменено:* - отступ в 8px. | [DS-92](https://s7airlines.atlassian.net/browse/DS-92)
 *Удалено:* - цвет N80. | [DS-92](https://s7airlines.atlassian.net/browse/DS-92)
 
 **Title**
+
 *Добавлено:* - стили для Desktop, Tablet и Mobile. | [DS-92](https://s7airlines.atlassian.net/browse/DS-92)
 *Добавлено:* - цвет N300 и N900. | [DS-92](https://s7airlines.atlassian.net/browse/DS-92)
 
 **Chore**
+
 *Добавлено:* - Добавлен шаблон PR. | [DS-90](https://s7airlines.atlassian.net/browse/DS-90)
 *Добавлено:* - Добавлен contributing.md | [DS-90](https://s7airlines.atlassian.net/browse/DS-90)
 *Добавлено:* - Добавлен скрипт для создания changelog из истории коммитов между версиями. | [DS-90](https://s7airlines.atlassian.net/browse/DS-90)
